@@ -5,4 +5,8 @@ Test for learning GitHub
 -Running
 -Anime
 -Music
-## Foo
+## Favorite Shows
+-JOJO's Bizarre Adventure
+-Attack on Titan
+-Full Metal Alchemist
+-Blue Exorcist 
